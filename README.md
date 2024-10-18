@@ -120,3 +120,20 @@ The website uses **media queries** to ensure a seamless user experience on all s
 
 https://github.com/user-attachments/assets/201e5c08-310d-4fcc-aa6a-c6ebac4bc170
 
+
+
+# Calculator Application
+This is a simple, responsive calculator built using HTML, CSS, and JavaScript as part of Task 3 for my CodeSoft Internship.
+
+## Features
+Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division.
+Responsive Design: Works on both desktop and mobile devices.
+Error Handling: Prevents invalid inputs and handles errors gracefully.
+User-Friendly Interface: Simple and intuitive UI for a smooth user experience.
+## Technologies Used
+HTML5: For structuring the calculator layout.
+CSS3: For styling and making the calculator responsive.
+JavaScript: For adding functionality and handling user input.
+
+## Image
+![Screenshot 2024-10-18 100409](https://github.com/user-attachments/assets/8001c93e-4c61-4314-a4d4-02777638499c)
